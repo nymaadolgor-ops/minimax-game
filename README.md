@@ -1,1 +1,1 @@
-# minimax-game
+Minimax Tic-Tac-Toe game
